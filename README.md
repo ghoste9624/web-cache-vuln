@@ -19,6 +19,13 @@ python vcache.py -h
 
 <br>
 
+# Example 
+```bash
+python vcache.py https://github.com/ghoste9624 -v
+```
+
+<br>
+
 # Updated On
 
 ``
